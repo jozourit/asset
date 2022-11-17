@@ -1,7 +1,4 @@
-![Build Status](https://app.chipperci.com/projects/0e5f8979-31eb-4ee6-9abf-050b76ab0383/status/master) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/jozour-it/localized.svg)](https://crowdin.com/project/jozour-it) [![Docker Pulls](https://img.shields.io/docker/pulls/jozour/jozour-it.svg)](https://hub.docker.com/r/jozour/jozour-it/) [![Twitter Follow](https://img.shields.io/twitter/follow/jozouritapp.svg?style=social)](https://twitter.com/jozouritapp)  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/553ce52037fc43ea99149785afcfe641)](https://www.codacy.com/app/jozour/jozour-it?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jozour/jozour-it&amp;utm_campaign=Badge_Grade)
-[![All Contributors](https://img.shields.io/badge/all_contributors-294-orange.svg?style=flat-square)](#contributors) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/yZFtShAcKk) [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
-
-## Jozour-IT - Open Source Asset Management System
+## Jozour-IT - Asset Management System
 
 This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc.
 
